@@ -1,14 +1,14 @@
 # Artisan CLI
 
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Calling Commands Outside Of CLI](#calling-commands-outside-of-cli)
-- [Scheduling Artisan Commands](#scheduling-artisan-commands)
+- [介紹](#introduction)
+- [使用方法](#usage)
+- [外部指令呼叫](#calling-commands-outside-of-cli)
+- [指令排程](#scheduling-artisan-commands)
 
 <a name="introduction"></a>
-## Introduction
+## 介紹
 
-Artisan is the name of the command-line interface included with Laravel. It provides a number of helpful commands for your use while developing your application. It is driven by the powerful Symfony Console component.
+Artisan 是 Laravel 內建的一個指令. 他提供許多指令方便您進行程式開發. It is driven by the powerful Symfony Console component.
 
 <a name="usage"></a>
 ## Usage
